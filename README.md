@@ -12,7 +12,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I wanted to study the technology trends and how they have changed over years. I took the data from stackoverflow survey from 2011 to 2019 and tried to answer the following questions?
+For this project, I wanted to study the technology trends and how they have changed over years. I took the data from stackoverflow survey from 2011 to 2014 and tried to answer the following questions?
 
 1. Growth of Women in Technology?
 2. Most popular programming language?
