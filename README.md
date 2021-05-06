@@ -28,7 +28,7 @@ There is one single jupyter notebook that processes all the csv files and answer
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@savinaynarendra/how-has-the-technology-industry-changed-over-years-c91cbdd24681).
+The main findings of the code can be found at the post available [here](https://ayman-metwally.medium.com/how-has-the-technology-industry-transformed-over-years-820fad9c1242).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
